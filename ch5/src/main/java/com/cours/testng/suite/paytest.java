@@ -1,7 +1,5 @@
 package com.cours.testng.suite;
-
 import org.testng.annotations.Test;
-
 import java.awt.*;
 public class paytest {
     @Test
