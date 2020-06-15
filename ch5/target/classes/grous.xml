@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite  name="suitename">
+    <test  name="runALL">
+
+        <classes>
+            <class name ="groups.groupsOnClass1"/>
+            <class name ="groups.GroupClass2"/>
+            <class name ="groups.groups3"/>
+        </classes>
+    </test>
+    <test  name="onlyrunStu">
+<groups>
+    <run>
+        <include name="stu"/>
+    </run>
+</groups>
+        <classes>
+            <class name ="groups.groupsOnClass1"/>
+            <class name ="groups.GroupClass2"/>
+            <class name ="groups.groups3"/>
+        </classes>
+
+    </test>
+</suite>
