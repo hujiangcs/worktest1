@@ -24,7 +24,6 @@ public class DataProviderTest<Objec> {
     public void testDataProvider1(String name, int age){
 
         System.out.println("test1方法  name:"+ name +"age:"+age);
-
     }
     @Test(dataProvider = "methidData")
     public void testDataProvider2(String name, int age){
