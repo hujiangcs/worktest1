@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class IgnoreTest {
 
    @Test
-    public   void ignre1(){
+    public   void Ignre1(){
         System.out.println("ignre1 ，运行");
     }
     @Test  (enabled = false)
