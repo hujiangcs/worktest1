@@ -30,7 +30,6 @@ public class DataProviderTest<Objec> {
     public void testDataProvider2(String name, int age){
         System.out.println("test2方法  name:"+ name +"age:"+age);
     }
-
 @DataProvider(name ="methidData")
     public Object[][] methidData(Method method){
 
