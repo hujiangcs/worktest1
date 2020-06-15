@@ -38,6 +38,5 @@ public  void  beforeSuite(){
 @AfterSuite
 public   void  AfterSuite(){
     System.out.println("AfterSuite测试套件");
-
 }
 }
