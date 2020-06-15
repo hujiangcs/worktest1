@@ -38,7 +38,6 @@ if (method.getName().equals("test1")){
 
             }else
                 if (method.getName().equals("test2"))
-
     }
 
 
