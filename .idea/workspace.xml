@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c733a50-f937-4491-9c04-0da9a7fc6f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/src/main/java/com/ceres/apiTest/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/src/main/java/com/test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/src/main/java/com/test/ExtenTestNGIReporterlistener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/src/main/resources/test1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/ceres/apiTest/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/ceres/apiTest/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener$ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener$ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/target/classes/test1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che6/test-output/index2020-07-06141611.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/moco-runner-0.10.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/startup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/startupget.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/基本操作" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unnamed.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worktest1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/worktest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/ch5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/Extest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/Prammiter/DataProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/Prammiter/Paramtertest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/Basi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/IgnoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/DepenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/Logintest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/paytest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/suiteconfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/groups/GroupClass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/groups/groups3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/groups/groupsOnClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/resources/grous.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/resources/parm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/src/main/resources/suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/META-INF/ch5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/Extest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/Prammiter/DataProviderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/Prammiter/Paramtertest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/Basi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/IgnoreTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/DepenTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/Logintest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/paytest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/suiteconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/groups/GroupClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/groups/groups3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/groups/groupsOnClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/grous.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/parm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5/target/classes/suite.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e7ypwNPJXL44KvAD4KQLde7VPK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/che7" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Youku Files\worktest1\che6\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Youku Files\worktest1\che7" />
+      <recent name="D:\Youku Files\worktest1\che6\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Youku Files/worktest1/che6/src/main/resources/test1.xml">
+    <configuration name="index2020-07-06103615.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/worktest1/che6/test-output/index2020-07-06103615.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/Youku Files/worktest1/che6/src/main/resources/test1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="che6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/che6/src/main/resources/test1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Youku Files/worktest1/che7/src/main/resources/test1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="che7" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/che7/src/main/resources/test1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.tsest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="che6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo" />
+      <option name="METHOD_NAME" value="tsest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.tsest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="che6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo" />
+      <option name="METHOD_NAME" value="tsest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Youku Files/worktest1/che6/src/main/resources/test1.xml" />
+        <item itemvalue="JavaScript Debug.index2020-07-06103615.html" />
+        <item itemvalue="TestNG.Demo.tsest2" />
+        <item itemvalue="TestNG.Demo.tsest1" />
+        <item itemvalue="TestNG.D:/Youku Files/worktest1/che7/src/main/resources/test1.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c733a50-f937-4491-9c04-0da9a7fc6f06" name="Default Changelist" comment="" />
+      <created>1593687111826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593687111826</updated>
+      <workItem from="1593687115587" duration="1948000" />
+      <workItem from="1593689132491" duration="1427000" />
+      <workItem from="1593741106705" duration="4986000" />
+      <workItem from="1593761505283" duration="5049000" />
+      <workItem from="1594001298757" duration="13675000" />
+      <workItem from="1594089203152" duration="609000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1594089776125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594089776125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="101" key="#Project_Structure" timestamp="1594043885540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="101" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594043885540" />
+    <state x="750" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593759419016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593759419016" />
+    <state x="1303" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594009927356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1303" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594009927356" />
+    <state x="832" y="267" key="FileChooserDialogImpl" timestamp="1594004612899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594004612899" />
+    <state width="1043" height="348" key="GridCell.Tab.0.bottom" timestamp="1594036230680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1043" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594036230680" />
+    <state width="1043" height="348" key="GridCell.Tab.0.center" timestamp="1594036230680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1043" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594036230680" />
+    <state width="1043" height="348" key="GridCell.Tab.0.left" timestamp="1594036230680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1043" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594036230680" />
+    <state width="1043" height="348" key="GridCell.Tab.0.right" timestamp="1594036230680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1043" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594036230680" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1594002936208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594002936208" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1594002936208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594002936208" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1594002936208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594002936208" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1594002936208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594002936208" />
+    <state x="831" y="217" width="998" height="745" key="SettingsEditor" timestamp="1594089832640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="217" width="998" height="745" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594089832640" />
+    <state x="799" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593760448373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593760448373" />
+    <state x="661" y="219" key="new project wizard" timestamp="1593687529136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="219" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593687529136" />
+    <state x="748" y="242" key="run.anything.popup" timestamp="1593760944206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593760944206" />
+  </component>
+</project>

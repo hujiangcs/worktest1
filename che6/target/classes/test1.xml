@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite  name="测试接口套件">
+    <test  name ="测试模块">
+        <classes>
+            <class  name="com.test.Demo">
+                <methods>
+                    <include name="tsest1"/>
+                    <include name="tsest2"/>
+                    <include name="logDemo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.ceres.apiTest.ExtentTestNGIReporterListener" />
+
+    </listeners>
+</suite>
