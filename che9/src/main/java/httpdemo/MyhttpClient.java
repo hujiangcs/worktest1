@@ -7,7 +7,6 @@ import org.testng.*;
 public class MyhttpClient {
 
     @Test
-
     public   void  test1(){
         //用来存放结果
         String  result;
