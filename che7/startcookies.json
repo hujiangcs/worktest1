@@ -1,0 +1,38 @@
+[
+  {
+    "description": "cookies信息的get请求",
+    "request": {
+      "uri": "/get/with/cookies",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+    "response": {
+      "text": "携带cookies信息才能访问get请求"
+
+  }
+
+},
+  {
+    "description": "cookiespost请求",
+    "request": {
+     "uri": "/pots/with/cookies",
+      "method": "post",
+      "cookies":{
+        "login": "true"
+      },
+"json": {
+  "name": "hujiang",
+  "age": "18"
+}
+    },
+"response": {
+  "status": 200,
+  "json": {
+    "hujiang": "success",
+    "status":"1"
+  }
+}
+  }
+]

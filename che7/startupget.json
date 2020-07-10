@@ -8,8 +8,22 @@
     "response": {
       "text": "这是个没有参数的get请求- "
     }
+    },
 
-
+  {
+    "description": "带参数的get请求",
+    "request": {
+      "uri": "/getwithparam",
+      "method": "get",
+   "queries": {
+   "name": "hujiang",
+   "age": "18",
+     "sex": "man"
+   }
+    },
+    "response": {
+      "text": "耳测测测测测"
+    }
   }
 
 

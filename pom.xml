@@ -11,6 +11,7 @@
     <modules>
         <module>che6</module>
         <module>che7</module>
+        <module>che9</module>
     </modules>
 
 

@@ -20,68 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c733a50-f937-4491-9c04-0da9a7fc6f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/src/main/java/com/ceres/apiTest/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/src/main/java/com/test/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/src/main/java/com/test/ExtenTestNGIReporterlistener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/src/main/resources/test1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/ceres/apiTest/ExtentTestNGIReporterListener$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/ceres/apiTest/ExtentTestNGIReporterListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener$ExtentTestNGIReporterListener$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener$ExtentTestNGIReporterListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/target/classes/test1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che6/test-output/index2020-07-06141611.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che7/moco-runner-0.10.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che7/startup.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che7/startupget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che7/基本操作" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unnamed.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worktest1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/startcookies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/startpost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/startuPwith.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che7/startwith.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che9/che9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/che9/src/main/java/httpdemo/MyhttpClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/worktest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/ch5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/Extest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/Prammiter/DataProviderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/Prammiter/Paramtertest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/Basi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/IgnoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/DepenTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/Logintest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/paytest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/com/cours/testng/suite/suiteconfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/groups/GroupClass2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/groups/groups3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/java/groups/groupsOnClass1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/resources/grous.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/resources/parm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/src/main/resources/suite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/META-INF/ch5.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/Extest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/Prammiter/DataProviderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/Prammiter/Paramtertest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/Basi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/IgnoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/DepenTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/Logintest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/paytest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/com/cours/testng/suite/suiteconfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/groups/GroupClass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/groups/groups3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/groups/groupsOnClass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/grous.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/parm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/target/classes/suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/che7/startupget.json" beforeDir="false" afterPath="$PROJECT_DIR$/che7/startupget.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/che7/基本操作" beforeDir="false" afterPath="$PROJECT_DIR$/che7/基本操作" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +53,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -125,11 +77,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/che7" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -229,6 +189,9 @@
       <workItem from="1593761505283" duration="5049000" />
       <workItem from="1594001298757" duration="13675000" />
       <workItem from="1594089203152" duration="609000" />
+      <workItem from="1594119339911" duration="5118000" />
+      <workItem from="1594196975939" duration="11078000" />
+      <workItem from="1594290909330" duration="4047000" />
     </task>
     <task id="LOCAL-00001">
       <created>1594089776125</created>
@@ -264,18 +227,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="101" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594043885540" />
-    <state x="750" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593759419016">
+    <state x="750" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594204505587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="750" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593759419016" />
+    <state x="750" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594204505587" />
+    <state x="1176" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1594294952798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1176" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594294952798" />
     <state x="1303" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594009927356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1303" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594009927356" />
-    <state x="832" y="267" key="FileChooserDialogImpl" timestamp="1594004612899">
+    <state x="832" y="267" key="FileChooserDialogImpl" timestamp="1594294767455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="832" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594004612899" />
+    <state x="832" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594294767455" />
     <state width="1043" height="348" key="GridCell.Tab.0.bottom" timestamp="1594036230680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -308,18 +275,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594002936208" />
-    <state x="831" y="217" width="998" height="745" key="SettingsEditor" timestamp="1594089832640">
+    <state x="831" y="217" width="998" height="745" key="SettingsEditor" timestamp="1594294857680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="831" y="217" width="998" height="745" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594089832640" />
+    <state x="831" y="217" width="998" height="745" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594294857680" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1594191768874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1594191768874" />
     <state x="799" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593760448373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="799" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593760448373" />
-    <state x="661" y="219" key="new project wizard" timestamp="1593687529136">
+    <state x="661" y="219" key="new project wizard" timestamp="1594294169146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="219" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593687529136" />
+    <state x="661" y="219" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594294169146" />
     <state x="748" y="242" key="run.anything.popup" timestamp="1593760944206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
