@@ -17,12 +17,14 @@
       "method": "get",
    "queries": {
    "name": "hujiang",
-   "age": "18",
-     "sex": "man"
+   "age": "18"
+
    }
     },
     "response": {
-      "text": "耳测测测测测"
+      "text": "知识都是三生三世大神发发发            "
+
+
     }
   }
 
