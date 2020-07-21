@@ -71,8 +71,6 @@ DefaultHttpClient  client =new DefaultHttpClient();
     int  statusCode;
     statusCode   =response.getStatusLine().getStatusCode();
     System.out.println("code:"+statusCode);
-
-
 if (statusCode==200){
 String reslut ;
     reslut = EntityUtils.toString(response.getEntity(), "UTF-8");
