@@ -76,7 +76,7 @@ String reslut ;
     reslut = EntityUtils.toString(response.getEntity(), "UTF-8");
     System.out.println(reslut);
                 }
-        }
+    }
 }
 
 
