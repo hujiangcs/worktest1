@@ -20,22 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c733a50-f937-4491-9c04-0da9a7fc6f06" name="Default Changelist" comment="test代码111">
-      <change afterPath="$PROJECT_DIR$/che9/src/main/java/com/course/Mycookiesget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/che9/src/main/resources/app.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/com/ceres/apiTest/ExtentTestNGIReporterListener$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/com/ceres/apiTest/ExtentTestNGIReporterListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/com/test/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener$ExtentTestNGIReporterListener$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener$ExtentTestNGIReporterListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/com/test/ExtenTestNGIReporterlistener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/che6/target/classes/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/che6/target/classes/test1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/che7/startcookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/che7/startcookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che7/startupget.json" beforeDir="false" afterPath="$PROJECT_DIR$/che7/startupget.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che7/基本操作" beforeDir="false" afterPath="$PROJECT_DIR$/che7/基本操作" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/che9/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che9/src/main/java/httpdemo/MyhttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/che9/src/main/java/httpdemo/MyhttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che9/src/main/java/httpdemo/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/che9/src/main/java/com/course/Mycookiesget.java" beforeDir="false" afterPath="$PROJECT_DIR$/che9/src/main/java/com/course/Mycookiesget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/che9/src/main/resources/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/che9/src/main/resources/app.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +93,7 @@
       <recent name="D:\Youku Files\worktest1\che6\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Mycookiesget.testGetCookes">
-    <configuration name="index2020-07-06103615.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/worktest1/che6/test-output/index2020-07-06103615.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="TestNG.Mycookiesget.testGetWithCookies">
     <configuration name="D:/Youku Files/worktest1/che6/src/main/resources/test1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="che6" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/che6/src/main/resources/test1.xml" />
@@ -154,6 +139,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mycookiesget.testGetWithCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="che9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course" />
+      <option name="MAIN_CLASS_NAME" value="com.course.Mycookiesget" />
+      <option name="METHOD_NAME" value="testGetWithCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyhttpClient" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="che9" />
       <extension name="coverage">
@@ -173,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Mycookiesget.testGetWithCookies" />
         <item itemvalue="TestNG.Mycookiesget.testGetCookes" />
         <item itemvalue="TestNG.Mycookiesget" />
         <item itemvalue="TestNG.MyhttpClient" />
         <item itemvalue="TestNG.D:/Youku Files/worktest1/che6/src/main/resources/test1.xml" />
-        <item itemvalue="JavaScript Debug.index2020-07-06103615.html" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +208,9 @@
       <workItem from="1594635203770" duration="10065000" />
       <workItem from="1594808343692" duration="6265000" />
       <workItem from="1594884047326" duration="7515000" />
+      <workItem from="1595243990938" duration="361000" />
+      <workItem from="1595321261556" duration="1102000" />
+      <workItem from="1595322425087" duration="4321000" />
     </task>
     <task id="LOCAL-00001">
       <created>1594089776125</created>
@@ -272,38 +278,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="832" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594812708326" />
-    <state width="1877" height="291" key="GridCell.Tab.0.bottom" timestamp="1594889093925">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1595330388917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594889093925" />
-    <state width="1877" height="291" key="GridCell.Tab.0.center" timestamp="1594889093925">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595330388917" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1595330388917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594889093925" />
-    <state width="1877" height="291" key="GridCell.Tab.0.left" timestamp="1594889093925">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595330388917" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1595330388917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594889093925" />
-    <state width="1877" height="291" key="GridCell.Tab.0.right" timestamp="1594889093925">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595330388917" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1595330388917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594889093925" />
-    <state width="1877" height="291" key="GridCell.Tab.1.bottom" timestamp="1594889095827">
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595330388917" />
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom" timestamp="1595330380436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594889095827" />
-    <state width="1877" height="291" key="GridCell.Tab.1.center" timestamp="1594889095826">
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595330380436" />
+    <state width="1877" height="274" key="GridCell.Tab.1.center" timestamp="1595330380435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594889095826" />
-    <state width="1877" height="291" key="GridCell.Tab.1.left" timestamp="1594889095826">
+    <state width="1877" height="274" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595330380435" />
+    <state width="1877" height="274" key="GridCell.Tab.1.left" timestamp="1595330380435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594889095826" />
-    <state width="1877" height="291" key="GridCell.Tab.1.right" timestamp="1594889095827">
+    <state width="1877" height="274" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595330380435" />
+    <state width="1877" height="274" key="GridCell.Tab.1.right" timestamp="1595330380435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594889095827" />
+    <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595330380435" />
     <state x="917" y="211" width="998" height="745" key="SettingsEditor" timestamp="1594811229815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -332,9 +338,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="219" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594294169146" />
-    <state x="748" y="242" key="run.anything.popup" timestamp="1594810172910">
+    <state x="748" y="242" key="run.anything.popup" timestamp="1595321320995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="748" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594810172910" />
+    <state x="748" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595321320995" />
   </component>
 </project>

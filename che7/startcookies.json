@@ -18,7 +18,7 @@
   {
     "description": "cookies信息的get请求",
     "request": {
-      "uri": "/get/with/cookies",
+      "uri": "/get/with/cookie",
       "method": "get",
       "cookies": {
         "login": "true"
