@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c733a50-f937-4491-9c04-0da9a7fc6f06" name="Default Changelist" comment="test代码111">
+    <list default="true" id="9c733a50-f937-4491-9c04-0da9a7fc6f06" name="Default Changelist" comment="获取状态码代码111">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che7/startcookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/che7/startcookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che9/src/main/java/com/course/Mycookiesget.java" beforeDir="false" afterPath="$PROJECT_DIR$/che9/src/main/java/com/course/Mycookiesget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/che9/src/main/resources/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/che9/src/main/resources/app.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -210,7 +207,7 @@
       <workItem from="1594884047326" duration="7515000" />
       <workItem from="1595243990938" duration="361000" />
       <workItem from="1595321261556" duration="1102000" />
-      <workItem from="1595322425087" duration="4321000" />
+      <workItem from="1595322425087" duration="4630000" />
     </task>
     <task id="LOCAL-00001">
       <created>1594089776125</created>
@@ -233,7 +230,28 @@
       <option name="project" value="LOCAL" />
       <updated>1594378735760</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="获取状态码代码">
+      <created>1595330589735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595330589735</updated>
+    </task>
+    <task id="LOCAL-00005" summary="获取状态码代码">
+      <created>1595330642383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595330642383</updated>
+    </task>
+    <task id="LOCAL-00006" summary="获取状态码代码111">
+      <created>1595330675942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595330675942</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +273,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test代码" />
     <MESSAGE value="test代码111" />
-    <option name="LAST_COMMIT_MESSAGE" value="test代码111" />
+    <MESSAGE value="获取状态码代码" />
+    <MESSAGE value="获取状态码代码111" />
+    <option name="LAST_COMMIT_MESSAGE" value="获取状态码代码111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="101" key="#Project_Structure" timestamp="1594043885540">
@@ -310,10 +330,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595330380435" />
-    <state x="917" y="211" width="998" height="745" key="SettingsEditor" timestamp="1594811229815">
+    <state x="917" y="211" width="998" height="745" key="SettingsEditor" timestamp="1595330755462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="917" y="211" width="998" height="745" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594811229815" />
+    <state x="917" y="211" width="998" height="745" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595330755462" />
     <state x="817" y="448" width="582" height="524" key="StructurePopup" timestamp="1594726673496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -322,10 +342,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1594191768874" />
-    <state x="686" y="231" key="Vcs.Push.Dialog.v2" timestamp="1594378764899">
+    <state x="686" y="231" key="Vcs.Push.Dialog.v2" timestamp="1595330692382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="686" y="231" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594378764899" />
+    <state x="686" y="231" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595330692382" />
     <state x="97" y="120" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594889322030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
